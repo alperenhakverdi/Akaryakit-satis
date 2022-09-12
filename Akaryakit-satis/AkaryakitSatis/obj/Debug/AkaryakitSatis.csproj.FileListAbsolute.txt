@@ -1,0 +1,14 @@
+C:\Users\alper\source\repos\AkaryakitSatis\AkaryakitSatis\bin\Debug\AkaryakitSatis.exe.config
+C:\Users\alper\source\repos\AkaryakitSatis\AkaryakitSatis\bin\Debug\AkaryakitSatis.exe
+C:\Users\alper\source\repos\AkaryakitSatis\AkaryakitSatis\bin\Debug\AkaryakitSatis.pdb
+C:\Users\alper\source\repos\AkaryakitSatis\AkaryakitSatis\obj\Debug\AkaryakitSatis.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\AkaryakitSatis\AkaryakitSatis\obj\Debug\AkaryakitSatis.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\AkaryakitSatis\AkaryakitSatis\obj\Debug\AkaryakitSatis.exe
+C:\Users\alper\source\repos\AkaryakitSatis\AkaryakitSatis\obj\Debug\AkaryakitSatis.pdb
+C:\Users\alper\Masaüstü\yazılım\c# uygulamalar\AkaryakitSatis-console-mid\AkaryakitSatis\bin\Debug\AkaryakitSatis.exe.config
+C:\Users\alper\Masaüstü\yazılım\c# uygulamalar\AkaryakitSatis-console-mid\AkaryakitSatis\bin\Debug\AkaryakitSatis.exe
+C:\Users\alper\Masaüstü\yazılım\c# uygulamalar\AkaryakitSatis-console-mid\AkaryakitSatis\bin\Debug\AkaryakitSatis.pdb
+C:\Users\alper\Masaüstü\yazılım\c# uygulamalar\AkaryakitSatis-console-mid\AkaryakitSatis\obj\Debug\AkaryakitSatis.csproj.AssemblyReference.cache
+C:\Users\alper\Masaüstü\yazılım\c# uygulamalar\AkaryakitSatis-console-mid\AkaryakitSatis\obj\Debug\AkaryakitSatis.csproj.CoreCompileInputs.cache
+C:\Users\alper\Masaüstü\yazılım\c# uygulamalar\AkaryakitSatis-console-mid\AkaryakitSatis\obj\Debug\AkaryakitSatis.exe
+C:\Users\alper\Masaüstü\yazılım\c# uygulamalar\AkaryakitSatis-console-mid\AkaryakitSatis\obj\Debug\AkaryakitSatis.pdb
